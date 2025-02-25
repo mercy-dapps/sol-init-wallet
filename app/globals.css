@@ -40,3 +40,13 @@ a {
     color-scheme: dark;
   }
 }
+
+button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.4rem;
+  border: 0;
+
+  font-weight: bold;
+
+  cursor: pointer;
+}
